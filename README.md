@@ -9,16 +9,14 @@ LIRI will search the following APIs:
    -OMDB for movies
 
 Use the following commands to activate LIRI:
-    
-    -help (to list all commands)
-    
-    -concert-this (followed by an artist)
-    
-    -spotify-this-song (followed by a song)
-    
-    -movie-this (followed by a movie)
-    
-    -do-what-it-says (to run random.txt)
+   -help (to list all commands)
+   -concerts-this (artist)
+   -spotify-this-song (song)
+   -movie-this (movie)
+   -do-what-it-says (random.txt)
+     
+
+   
 
 ![image](https://user-images.githubusercontent.com/52723175/66260487-debae380-e784-11e9-9822-66a5442a265a.png)
 
