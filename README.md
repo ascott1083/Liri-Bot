@@ -10,9 +10,13 @@ LIRI will search the following APIs:
 
 Use the following commands to activate LIRI:
    -help (to list all commands)
+   
    -concerts-this (artist)
+   
    -spotify-this-song (song)
+   
    -movie-this (movie)
+   
    -do-what-it-says (random.txt)
      
 
