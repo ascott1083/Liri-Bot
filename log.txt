@@ -1,0 +1,176 @@
+
+Song Search Log---------------------------------------
+
+Song Name: Shake It Off
+
+Artist(s): Taylor Swift
+
+Album: 1989
+
+Preview Link: null
+
+-------------------------------------------------------
+
+Movie Search Log----------------------
+
+Year: 2000
+
+IMDB Rating: 8.5
+
+Rotten Tomatoes: 76%
+
+Country: USA, UK, Malta, Morocco
+
+Language: English
+
+Plot: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+
+Year: 2000
+
+Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Werchter Boutique
+
+Venue Location: Rotselaar, , Belgium
+
+Venue Time: 06/20/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Waldbühne Berlin
+
+Venue Location: Berlin, , Germany
+
+Venue Time: 06/24/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Oslo Sommertid
+
+Venue Location: Oslo, , Norway
+
+Venue Time: 06/26/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Roskilde Festival
+
+Venue Location: Roskilde, , Denmark
+
+Venue Time: 07/01/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Open’er Festival
+
+Venue Location: Powiat Pucki, , Poland
+
+Venue Time: 07/03/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Festival de Nîmes
+
+Venue Location: Nimes, , France
+
+Venue Time: 07/05/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: NOS Alive
+
+Venue Location: Algés, , Portugal
+
+Venue Time: 07/09/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Allianz Parque
+
+Venue Location: Sao Paulo, , Brazil
+
+Venue Time: 07/18/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lover Fest West
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 07/25/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lover Fest West
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 07/26/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lover Fest East
+
+Venue Location: Foxborough, MA, United States
+
+Venue Time: 07/31/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lover Fest East
+
+Venue Location: Foxborough, MA, United States
+
+Venue Time: 08/01/2020, 7:00 PM
+
+-----------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: I Want It That Way
+
+Artist(s): Backstreet Boys
+
+Album: The Hits--Chapter One
+
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=00544efd2c9d48389c83ad97c4b51aa7
+
+-------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: I Want It That Way
+
+Artist(s): Backstreet Boys
+
+Album: The Hits--Chapter One
+
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=00544efd2c9d48389c83ad97c4b51aa7
+
+-------------------------------------------------------
