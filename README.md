@@ -16,3 +16,5 @@ Use the following commands to activate LIRI:
 
 ![image](https://user-images.githubusercontent.com/52723175/66260487-debae380-e784-11e9-9822-66a5442a265a.png)
 
+![image](https://user-images.githubusercontent.com/52723175/66260482-d2368b00-e784-11e9-951d-2a2b009bd129.png)
+
