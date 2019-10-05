@@ -1,9 +1,9 @@
 # Liri Bot
  
 LIRI will search the following APIs:
-    Spotify for songs
-    Bands in Town for concerts
-    OMDB for movies
+   -Spotify for songs
+   -Bands in Town for concerts
+   -OMDB for movies
 
 Use the following commands to activate LIRI:
     help (to list all commands)
